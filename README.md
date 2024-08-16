@@ -14,7 +14,8 @@
  
  🌱 I’m currently learning **sql, Python, AWS**
 
-💬 Ask me about **python, bash, or sql... or anything [here]ttps://github.com/Cortezlm
+💬 Ask me about **python, bash, or sql... or anything [here](https://github.com/Cortezlm/test)**
+
 ⚡ Fun fact **i also create beats
  </div>
  
