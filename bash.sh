@@ -8,3 +8,6 @@
 echo "class"
 echo "this is cool"
 echo "awsome"
+
+name=Cortez 
+echo "welcome to the class $name"
