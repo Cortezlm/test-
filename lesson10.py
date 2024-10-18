@@ -35,7 +35,7 @@ print(f"\nRequest Details:\nURL: {url}\nHTTP Method: {http_method}")
 confirmation = input("Do you want to proceed with this request? (yes/no): ")
 
 # Step 4: Execute the request if confirmed
-if conficgirmation.lower() == 'yes':
+if confirmation.lower() == 'yes':
     if http_method == 'GET':
         response = requests.get(url)
         print(f"Response Status Code: {response.status_code}")
